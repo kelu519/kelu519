@@ -1,4 +1,4 @@
-## Welcome to Ke's Pages
+## Welcome to Ke's Page
 
 You can use the [editor on GitHub](https://github.com/kelu519/kelu519/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
